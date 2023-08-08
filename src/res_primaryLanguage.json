@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi There",
-      "description": "👋 I'm Kalyani Bedre. A fictional person for preview purposes😉. I'm working with the newest front-end frameworks/libraries like ReactJs, Redux, and JavaScript. I have almost 4 years of experience in building applications/ features for clients from around the globe. You can scroll down to see the skills that I possess and with a little more scrolling you can view my Industrial Experiences. Thank you 💜",
+      "description": "👋 I'm Kalyani Bedre. A fictional person for preview purposes😉. I'm a Business Analyst and a student of George Brown College.I have more than 3 years of experience of collaborating with stakeholders from around the globe to gather requirements and deliver a higly stable soluton satisfying the customers need. You can scroll down to see the skills that I possess. With a little more scrolling you can view my Industrial Experiences. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -80,6 +80,29 @@
       }
     ],
     "experience": [
+         {
+        "company": "Skill Squirrel, Mississuaga, ON",
+        "title": "Project Management Intern",
+        "years": "May'2022 - Sept'2022",
+        "mainTech": [
+          "Project Management"
+        ],
+        "technologies": [
+          "Quality Assurance testing using Selenium",
+          "Confluence",
+          "Bug tracking",
+          "Jira",
+          "Agile",
+          "Resolving obstacles and conflicts",
+          "Atlassian ",
+          "User story tracking",
+          "assigning tasks to team members",
+          "Solving impediments and blockers ",
+          "Creating Meeting Agenda",
+          "Managed cross-functional team activities"
+    
+        ]
+      },
       {
         "company": "IBM",
         "title": "Senior Systems Engineer",
@@ -88,19 +111,20 @@
           "Full-Stack Deveoper"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "ReactJs",
-          "JSX",
-          "NodeJs",
-          "AWS",
-          "Git",
-          "AWS Lambda",
-          "HTML5",
-          "CSS3",
-          "Material UI"
+          "React JS interface" ,
+          "Backend Components Development",
+          "Develop a highly scalable application within a cross-functional team.",
+          "Stakeholder Collaboration",
+          "Agile",
+          "Cross-functional",
+          "Process Improvement",
+          "Requirement Analysis",
+          "Code review",
+          "Functionality Analysis",
+          "Testing",
+          "User Stories Documentation",
+          "Business Analysis",
+          "App functionality documentation"
         ]
       },
       {
@@ -111,19 +135,19 @@
           "Full-Stack Deveoper"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "ReactJs",
-          "JSX",
-          "NodeJs",
-          "AWS",
+          "System performance",
+          "Stress testing",
+          "Jira",
+          "Bug tracking ",
+          "Analyse Business Processes to identify areas of continuous improvement",
+          "Requiement Gathering",
+          "Report Generation",
+          "Development of acceptance criteria",
           "Git",
-          "AWS Lambda",
-          "HTML5",
-          "CSS3",
-          "Material UI"
+          "SQL",
+          "Agile",
+          "Requirement Scope and Traceability",
+          "Communication Skills"
         ]
       }
     ]

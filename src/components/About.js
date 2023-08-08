@@ -7,7 +7,7 @@ import javaScriptIcon from "@iconify/icons-logos/javascript";
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
-      var profilepic = "images/" + this.props.sharedBasicInfo.image;
+      var profilepic = "../" + this.props.sharedBasicInfo.image;
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
@@ -30,7 +30,7 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
-                  <Icon
+                  {/* <Icon
                     icon={gitIcon}
                     style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
                   />
@@ -41,7 +41,7 @@ class About extends Component {
                   <Icon
                     icon={javaScriptIcon}
                     style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
-                  />
+                  /> */}
                 </span>
               </div>
             </div>

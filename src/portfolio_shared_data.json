@@ -19,77 +19,82 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile2.jpg"
+      "image": "IMG-5492.JPG"
     },
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
+          "name": "Requirement Elicitation",
           "class": "devicon-html5-plain"
         },
         {
-          "name": "CSS 3",
+          "name": "Document Analysis",
           "class": "devicon-css3-plain"
         },
         {
-          "name": "ReactJs",
+          "name": "Requirement Gathering and Life Cycle Management",
           "class": "devicon-react-original"
         },
         {
-          "name": "TypeScript",
+          "name": "Use Cases Analysis and Design",
           "class": "devicon-typescript-plain"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain"
+          "name": "Case Study Analysis",
+          "class": "devicon-atom-plain"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original"
+          "name": "Critical thinking and Creative thinking",
+          "class": "devicon-arduino-plain"
         },
         {
-          "name": "Bootstrap",
+          "name": "Creating and Understanding Business Rules",
           "class": "devicon-bootstrap-plain"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain"
+          "name": "Managng Stakeholder Collaboration ",
+          "class": "devicon-slack-plain"
         },
         {
-          "name": "Github",
-          "class": "devicon-github-plain"
-        },
-        {
-          "name": "Redux",
+          "name": "Excellent Communication Skills",
           "class": "devicon-redux-original"
         },
         {
-          "name": "MongoDB",
-          "class": "devicon-mongodb-plain"
+          "name": "SQL",
+          "class": "devicon-mysql-plain"
         },
         {
           "name": "Jira",
           "class": "devicon-jira-plain"
         },
-        {
-          "name": "VS Code",
-          "class": "devicon-vscode-plain"
-        },
-        {
+         {
           "name": "BitBucket",
           "class": "devicon-bitbucket-original"
         },
-        {
-          "name": "Material UI",
-          "class": "devicon-materialui-plain"
+         {
+          "name": "Java",
+          "class": "devicon-java-plain"
         },
         {
-          "name": "npm",
-          "class": "devicon-npm-original-wordmark"
+          "name": "Javascript",
+          "class": "devicon-javascript-plain"
+        },
+       
+        {
+          "name": "React Js , Front End Development",
+          "class": "devicon-react-original"
+        },
+        {
+          "name": "Tableau",
+          "class": "devicon-minitab-plain"
         },
         {
           "name": "Bamboo",
           "class": "devicon-bamboo-original"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-plain"
         }
       ]
     }
